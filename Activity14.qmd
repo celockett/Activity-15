@@ -175,7 +175,7 @@ The image is a line graph titled "Popularity of My Family's Names Over Time." Th
 
 ## Code for the Box Problem
 
-```{r boxPlot, fig.cap="Figure 1. Volume of an open-top box from a 36x48 inch sheet of paper.", fig.alt="Line plot showing the volume of an open-top box as a function of height of the cut, x, for a 36x48 inch sheet of paper.", echo=FALSE}
+```{r boxPlot, fig.cap="Figure 2. Volume of an open-top box from a 36x48 inch sheet of paper.", fig.alt="Line plot showing the volume of an open-top box as a function of height of the cut, x, for a 36x48 inch sheet of paper.", echo=FALSE}
 volume.box <- function(x) {
   vol_box <- (36 - 2*x)*(48 - 2*x)*(x)
 }
