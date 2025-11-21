@@ -10,7 +10,7 @@ This repository contains my work for Activity 14 in STAT 184.
 2. Baby Names Data
    -'BabyNames' dataset from the dcData R package
    - accseed via 'library(dcData)'
-A third componenet models the volume of an open-top box cut from a 36x48 inch sheet of paper.
+- A third componenet models the volume of an open-top box cut from a 36x48 inch sheet of paper.
 
 # Current Plan
 The goals of this project are to:
