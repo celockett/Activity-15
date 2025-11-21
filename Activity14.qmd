@@ -203,7 +203,7 @@ The figure shows a line plot of the volume of an open-top box as a function of t
 
 # What I've Learned So Far
 
-Throughout this course I have learned the necessary skills for data wrangling, visualization, and analysis. I have gained experience using ggplot2 to create effective visualization such as line plots and frequency tables. I have learned how to clean and polish my code in order to create reproducible code containing comments and proper variable names. I have also learned how to interpret data visualizations.
+Throughout this course, I have learned the essential skills for data wrangling, visualization, and analysis. I have gained experience using ggplot2 to create effective visualization such as line plots and frequency tables. I have learned how to clean and polish my code in order to create reproducible code containing comments and proper variable names. I have also learned how to properly interpret data visualizations and explain what they reveal about the data.
 
 # Code Appendix
 
