@@ -1,7 +1,6 @@
 # Activity 15
 
-This is for submission of Activity 15, which is comprised of quarto file as well as pdf document.
-This repository contains my work for Activity 14 in STAT 184.
+This repository contains my work for Activity 15 in STAT 184, including a Quarto document and rendered PDF report.
 
 # Data Sources
 1. U.S. Armed Forces Data
